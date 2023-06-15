@@ -1,0 +1,30 @@
+.containersi {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    margin: 10px 300px;
+}
+
+.pag-end-p{
+    background-color: black;
+    background-image: url(ppng.png);
+    background-size: 1300px;
+    background-position: 0px;
+}
+  
+h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+  
+p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}

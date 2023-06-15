@@ -1,0 +1,23 @@
+.cflex2{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 50px;
+}
+
+.forms{
+    background-color: rgb(200, 198, 198);
+    color: black;
+    border: 5px solid black;
+    border-radius: 5%;
+    padding: 40px;
+    text-align: center;
+    margin: 10px;
+}
+
+.formi{
+    text-align: center;
+}
+
+.pag-end-c{
+    background: linear-gradient(90deg,black,white);
+}
